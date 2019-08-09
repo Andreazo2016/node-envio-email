@@ -1,4 +1,4 @@
-const Queue = require('./Queue');
+const Queue = require('./src/Queue');
 
 const mailOptions = {
     from: '',
